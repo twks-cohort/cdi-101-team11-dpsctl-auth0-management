@@ -32,3 +32,7 @@ In this case that means, if the user is a member of the github org where the git
 * insert those teams as a list into the returned idToken
 
 See repo pipeline for specific details.  
+
+github app
+    - clientid 0507ef392dd9e3614b13
+    - client secret: 75382ab3457db2effa9e7ed1171a37209ada2d56
